@@ -7,7 +7,7 @@ Hola, soy **Nicolás Ezequiel Lugones**, un apasionado Ingeniero de Datos y estu
 ## 👨‍💻 Sobre mí
 
 * 🎓 Estudio **Tecnicatura en Desarrollo de Software** en la Universidad Provincial de Ezeiza.
-* 📊 Me estoy formando como **Data Engineer** en Platzi.
+* 📊 Me estoy formando como **Data Engineer**.
 * ✨ Disfruto trabajar en proyectos que desafían mi creatividad y habilidades en procesos ETL, optimización de código y desarrollo de scrapers inteligentes.
 
 * * *
